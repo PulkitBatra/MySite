@@ -91,13 +91,13 @@ hr {
 }
 
 .f{
-  width: 5%;
+  width: 20%;
   float: right;
 
 
 }
 .e{
-  width: 5%;
+  width: 20%;
   float: right;
 
 
@@ -111,7 +111,7 @@ hr {
 .r{
   width: 90%;
   text-align: left;
-  margin: 100px auto 100px auto;
+  margin-left:100px;
 
 
 }
