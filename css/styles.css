@@ -115,8 +115,8 @@ margin-right: 180px;
 .r{
   width: 90%;
 text-align: left;
-margin: 100px auto;
-margin-left: 250px;
+  position: relative;
+left: 150px;
 }
 .whoiam{
   color:#45b29a;
