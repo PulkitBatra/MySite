@@ -2,7 +2,7 @@
   background-color: #e0ebe8;
 padding-top: 100px;
 position: relative;
-
+text-align: center;
 
   }
 body{
@@ -91,8 +91,8 @@ hr {
 }
 
 .f{
-  width: 25%;
-
+  width: 15%;
+  height: 15%;
   float: right;
 
 
@@ -102,7 +102,7 @@ hr {
   width: 25%;
   height: 15%;
   float: right;
-
+margin: 0 auto;
 
 
 }
@@ -114,8 +114,9 @@ hr {
 .r{
   width: 90%;
 text-align: left;
-
+margin: auto;
 padding-bottom: 50px;
+
 
 }
 .whoiam{
