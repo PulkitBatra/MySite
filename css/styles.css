@@ -115,8 +115,8 @@ hr {
 .r{
   width: 90%;
 text-align: left;
-margin: 100px 100px;
-
+margin: 100px auto;
+margin-left:100px;
 
 
 }
