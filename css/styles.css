@@ -23,7 +23,7 @@ hr{
 
 
 .th{
-  text-align: left;
+  text-align: left
 }
 .hii{
   padding-top: 20px;
@@ -92,10 +92,9 @@ hr {
 
 .f{
   width: 25%;
-  height: 15%;
+
   float: right;
-position: relative;
-right: 300px;
+
 
 
 }
@@ -103,8 +102,7 @@ right: 300px;
   width: 25%;
   height: 15%;
   float: right;
-  position: relative;
-right: 300px;
+
 
 
 }
