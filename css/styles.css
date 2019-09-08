@@ -95,13 +95,13 @@ hr {
   width: 15%;
 
   float: right;
-
+margin-right: 250px;
 
 
 }
 .e{
   width: 25%;
-
+margin-right: 180px;
   float: right;
 
 
@@ -116,9 +116,7 @@ hr {
   width: 90%;
 text-align: left;
 margin: 100px auto;
-margin-left:100px;
-
-
+margin-left: 150px;
 }
 .whoiam{
   color:#45b29a;
