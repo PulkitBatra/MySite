@@ -3,12 +3,13 @@
 padding-top: 100px;
 position: relative;
 text-align: center;
+margin:auto;
 
   }
 body{
   margin: 0;
   font-family: 'Merriweather', serif;
-  text-align: center
+  text-align: center;
 
 }
 hr{
@@ -18,8 +19,7 @@ hr{
 
 .skills{
   padding-bottom: 30px;
-  margin:  100px auto 100px auto;
-
+margin:  100px auto 100px auto;
 }
 
 
@@ -93,7 +93,7 @@ hr {
 
 .f{
   width: 15%;
-  
+
   float: right;
 
 
