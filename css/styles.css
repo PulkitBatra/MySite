@@ -8,7 +8,7 @@ position: relative;
 body{
   margin: 0;
   font-family: 'Merriweather', serif;
-  text-align: center;
+  text-align: center
 
 }
 hr{
@@ -91,15 +91,18 @@ hr {
 }
 
 .f{
-  width: 20%;
+  width: 15%;
   float: right;
+position: relative;
+right: 300px;
 
 
 }
 .e{
-  width: 20%;
+  width: 15%;
   float: right;
-
+  position: relative;
+right: 300px;
 
 
 }
@@ -110,8 +113,8 @@ hr {
 
 .r{
   width: 90%;
-  text-align: left;
-  margin-left:100px;
+text-align: left;
+margin-left: 200px;
 
 
 }
