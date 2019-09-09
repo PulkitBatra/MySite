@@ -88,20 +88,21 @@ hr {
   border-width: 5px;
 
   width:5%;
+  position:
 
 }
 
 .f{
-  width: 25%;
+  width: 15%;
 
   float: right;
-margin-right: 200px;
+margin-right: 250px;
 
 
 }
 .e{
-  width: 25%;
-margin-right: 180px;
+  width: 15%;
+margin-right: 250px;
   float: right;
 
 
@@ -115,8 +116,10 @@ margin-right: 180px;
 .r{
   width: 90%;
 text-align: left;
-  position: relative;
+position: relative;
 left: 150px;
+padding-bottom: 10px;
+
 }
 .whoiam{
   color:#45b29a;
@@ -186,7 +189,7 @@ font-size: 20px;
 .jkl
 {
   color: #0F9D58;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 
